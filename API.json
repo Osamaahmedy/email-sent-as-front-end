@@ -1,0 +1,12 @@
+{
+    "our api": {
+        "first-sit-for-first-email": {
+            "your-name": "username",
+            "your-email-address": "example@gmail.com"
+        },
+        "second-contact-send-email-to-all-users-(admin-site)": {
+            "welcome-message": "hi (username)",
+            "message-content": "say anything you want"
+        }
+    }
+}
